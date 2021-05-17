@@ -3,6 +3,7 @@
 ### 801-18-9110
 ### CCOM4029-001 Prof. Patricia Ordonez
 ### This program is a Rummy game with GUI
+### In order to start the game you need to run the file Proj2.java
 
 # JDK Version that I used on my computer is 15.0.2
 
@@ -28,7 +29,7 @@ is explain how it is implemented in order to work.
 
 # Changes and functionalities on how to play the game:
 
-1. In the game player 1 is always a real person not generated 
+1. In order to start the game you need to run the file Proj2.java also the game player 1 is always a real person not generated 
 
 2. The game starts by player 1 or 2 selecting a card either from deck or stack. 
 Then the player can set ranks or discard a card. The logic of the game makes it possible
