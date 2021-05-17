@@ -1,8 +1,6 @@
 # JDK Version that I used on my computer is 15.0.2
 
 
-# Help recived:
-
 I had no help from classmates in order to make this project
 The help that i got from the internet are these:
 
