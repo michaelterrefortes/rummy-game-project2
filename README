@@ -46,6 +46,15 @@ Changes and functionalities on how to play the game:
 
     7. In the terminal it will be displayed each move the players make, the turns and if it is not your turn. 
 
-Design Patterns:
+Design patterns in the existing code:
 
+The relationships between the classes are that the Table class makes the Deck, Hand, Set and Stack objects. 
+This class calls and manipulated each class of Deck, Hand, Set and Stack based on the action performed in the GUI. 
+The classes of Deck, Hand and Set use the Card class as an object model in order to add, change cards of the set, deck and hand. 
+It could be said that the design pattern that is present is MVC Pattern because Table calls the controller (which is Hand, Deck and Set) 
+and this controller uses the model class Card) in order to be able to add, remove cards from the Hand, Deck and Set. The view part of 
+the MVC Pattern is hard to notice but I believe it is in table when the action performed of lay calls (lay(card)). This makes the 
+terminal output the card that was put on the set.
+
+Design Patterns implemented:
     
