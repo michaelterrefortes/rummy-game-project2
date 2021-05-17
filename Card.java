@@ -1,3 +1,10 @@
+/*Michael Terrefortes Rosado
+Project 2
+801-18-9110
+CCOM4029-001 Prof. Patricia Ordonez
+This program is a Rummy game with GUI*/
+
+
 // Card.java - John K. Estell - 8 May 2003
 // last modified: 23 Febraury 2004
 // Implementation of a playing card.  Uses classes Rank and Suit for
