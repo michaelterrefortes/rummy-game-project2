@@ -1,4 +1,8 @@
-
+/*Michael Terrefortes Rosado
+Project 2
+801-18-9110
+CCOM4029-001 Prof. Patricia Ordonez
+This program is a Rummy game with GUI*/
 
 import javax.swing.*;
 
