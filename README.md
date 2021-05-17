@@ -1,7 +1,8 @@
-# Michael Terrefortes Rosado
-# Project 2
-# 801-18-9110
-# CCOM4029
+## Michael Terrefortes Rosado
+## Project 2
+## 801-18-9110
+## CCOM4029-001
+## This program is a Rummy game with GUI
 
 # JDK Version that I used on my computer is 15.0.2
 
