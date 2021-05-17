@@ -1,3 +1,8 @@
+# JDK Version that I used on my computer is 15.0.2
+
+
+# Help recived:
+
 I had no help from classmates in order to make this project
 The help that i got from the internet are these:
 
@@ -8,8 +13,7 @@ https://www.javatpoint.com/java-hashset#:~:text=Java%20HashSet%20class%20is%20us
 https://www.javatpoint.com/java-stack#:~:text=In%20Java%2C%20Stack%20is%20a,we%20must%20import%20the%20java.
 
 
-
-Extra credit:
+# Extra credit:
 
 1. I added so that when the game starts there is a card at the stack.
 
@@ -18,8 +22,7 @@ Extra credit:
 is explain how it is implemented in order to work.
 
 
-
-Changes and functionalities on how to play the game:
+# Changes and functionalities on how to play the game:
 
 1. In the game player 1 is always a real person not generated 
 
@@ -51,9 +54,7 @@ close the game and run it again, then press autoplay.
 7. In the terminal it will be displayed each move the players make, the turns and if it is not your turn. 
 
 
-
-
-Design patterns in the existing code:
+# Design patterns in the existing code:
 
 The relationships between the classes are that the Table class makes the Deck, Hand, Set and Stack objects. 
 This class calls and manipulated each class of Deck, Hand, Set and Stack based on the action performed in the GUI. 
@@ -64,17 +65,15 @@ the MVC Pattern is hard to notice but I believe it is in table when the action p
 terminal output the card that was put on the set.
 
 
-
-
-Design Patterns implemented:
+# Design Patterns implemented:
     
     
-Factory Pattern:
+# Factory Pattern:
     
 ![picture](images/factory.png)
 
 
-Simpleton Pattern:
+# Simpleton Pattern:
 
 ![picture](images/simpleton.png)
     
